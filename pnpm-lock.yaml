@@ -1,0 +1,16 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  solady:
+    specifier: 0.0.250
+    version: 0.0.250
+
+packages:
+
+  /solady@0.0.250:
+    resolution: {integrity: sha512-bx/GDBgV9qufOTFJxp2bQPwyClA+IgFsdYCsojv4o3wJwykDf99oKxoWwzIy73gGMXtTiwy1yEh0Oc+Ewh7Gfw==}
+    dev: false
